@@ -2,3 +2,6 @@ out/
 .env
 *.class
 .idea/
+*.iml
+*.log
+target/
