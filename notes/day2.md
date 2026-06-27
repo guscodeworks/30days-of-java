@@ -35,4 +35,4 @@ Measue with eight decimal places: 53,23456700
 Rouded (three decimal places): 53,235
 US decimal point: 53.235`
 
-Resuldado: `ExercicioConcatenacao.java`
+Resultado: `ExercicioConcatenacao.java`
