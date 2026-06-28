@@ -20,7 +20,7 @@ Exemplo:
 day-01/
   HelloWorld.java
 notes/
-day1.md
+  day1.md
 ```
 
 ## O que pretendo estudar
