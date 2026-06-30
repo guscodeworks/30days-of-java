@@ -19,7 +19,8 @@ Exemplo:
 ```text
 day-01/
   HelloWorld.java
-  anotacao.md
+notes/
+  day1.md
 ```
 
 ## O que pretendo estudar
